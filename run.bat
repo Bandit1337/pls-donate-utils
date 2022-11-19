@@ -25,7 +25,7 @@ if not exist tokens.json (
 
 :ui
 cls
-echo pls donate utils v1.1.0 by tzechco
+echo pls donate utils v1.1.4 by tzechco
 echo.
 echo option select
 echo.
